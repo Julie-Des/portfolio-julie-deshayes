@@ -21,7 +21,7 @@
   "projects": {
     "title": "My projects",
     "see": "See",
-    "moreInfo": "+ infos",
+    "moreInfo": "More info",
     "card1" : {
         "title": "Creating a real estate rental web application",
         "technos": "React . React-router . Vite . Sass . CSS Animations",
