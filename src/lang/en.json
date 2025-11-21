@@ -21,29 +21,258 @@
   "projects": {
     "title": "My projects",
     "see": "See",
-    "card1": {
-      "title": "Creation of a real estate rental web application",
-      "technos": "React · React Router · Vite · Sass · CSS Animations"
+    "card1" : {
+        "title": "Creating a real estate rental web application",
+        "technos": "React . React-router . Vite . Sass . CSS Animations",
+        "altImage": "Screenshot of Kasa website",
+        "altLogo": "Kasa logo",
+
+        "objectives": {
+          "title": "Project objectives",
+          "item": "Develop a real estate rental web application in React. Create a fluid and responsive interface from Figma mockups, implement a dynamic routing system to explore properties, and ensure an optimal user experience across all devices."
+        },
+        "skills": {
+          "title": "Skills developed",
+          "items": [
+            "Mastery of React (reusable components, props, state) and React Router",
+            "Modular and maintainable code architecture",
+            "Sass integration for clean and organized styles",
+            "CSS animations to improve UX",
+            "Mobile-first responsive design",
+            "Error and invalid route handling"
+          ]
+        },
+        "results": {
+          "title": "Results and impact",
+          "items": [
+            "Functional application deployed on Vercel",
+            "Responsive interface faithful to Figma mockups",
+            "Interactive image gallery with infinite navigation",
+            "Animated collapsible sections for details",
+            "Smooth navigation without page reload"
+          ]
+        },
+        "improvements": {
+          "title": "Improvement perspectives",
+          "items" : [
+            "Connection to a real backend API",
+            "Addition of features (filters, search, favorites)",
+            "Performance optimization (lazy loading, code splitting)",
+            "Unit and integration tests",
+            "User authentication system"
+          ]
+        }
     },
-    "card2": {
-      "title": "SEO optimization for a photographer's website",
-      "technos": "SEO · Accessibility · Lighthouse · Wave"
+    "card2" : {
+        "title": "SEO optimization of a photographer's website",
+        "technos": "SEO . Accessibility . Lighthouse . Wave",
+        "altImage": "Screenshot of Nina Carducci website",
+        "altLogo": "Nina Carducci logo",
+
+        "objectives": {
+          "title": "Project objectives",
+          "item": "Optimize the SEO, performance and accessibility of a photographer's portfolio website. Improve visibility on search engines, speed up loading time and ensure accessibility according to WCAG 2.1 standards."
+        },
+        "skills": {
+          "title": "Skills developed",
+          "items": [
+            "Technical SEO optimization (metadata, Schema.org structured data)",
+            "Web performance improvement (image, script, CSS optimization)",
+            "Implementation of WCAG 2.1 accessibility standards",
+            "Semantic HTML and code quality",
+            "Use of audit tools (Lighthouse, Wave, Color Contrast Analyser)",
+            "Technical documentation writing"
+          ]
+        },
+        "results": {
+          "title": "Results and impact",
+          "items": [
+            "93% reduction in image weight (29.4 MB → 2.07 MB)",
+            "Significant improvement in Lighthouse scores (Performance, SEO, Accessibility)",
+            "Resolution of all major accessibility errors detected by Wave",
+            "Complete implementation of social metadata (Open Graph, Twitter Cards)",
+            "Noticeable improvement in loading speed and user experience"
+          ]
+        },
+        "improvements": {
+          "title": "Improvement perspectives",
+          "items": [
+            "Creation of a Google Business profile for local SEO",
+            "Development of local backlinks and directory listings",
+            "Addition of regular content (photography blog)",
+            "Implementation of a dynamic gallery management system"
+          ]
+        }
     },
-    "card3": {
-      "title": "Debugging an event agency’s website",
-      "technos": "DevTools · Unit Tests · Jest · Yarn · JavaScript"
+    "card3" : {
+        "title": "Debugging an event agency's website",
+        "technos": "DevTools . Unit tests . Jest . Yarn . JavaScript",
+        "altImage": "Screenshot of 724 events website",
+        "altLogo": "724 events logo",
+
+        "objectives": {
+          "title": "Project objectives",
+          "item": "Debug and finalize the development of a one-page website for an event agency. Analyze existing code, identify issues with Chrome DevTools and Jest tests, fix all reported bugs and write a test plan detailing validation scenarios."
+        },
+        "skills": {
+          "title": "Skills developed",
+          "items": [
+            "Website debugging with Chrome DevTools and React Developer Tools",
+            "Writing a test plan to validate functionalities",
+            "Dependency management with Yarn and Node.js",
+            "Performing and writing unit and functional tests with Jest"
+          ]
+        },
+        "results": {
+          "title": "Results and impact",
+          "items": [
+            "Fixed navigation links with smooth scrolling",
+            "Resolved slider bugs (month display, event order, infinite loop)",
+            "Fixed category filtering with limit of 9 events",
+            "Fixed contact form (validation, sending status)",
+            "Fixed footer event display and behavior",
+            "Improved test coverage with Jest"
+          ]
+        },
+        "improvements": {
+          "title": "Improvement perspectives",
+          "items": [
+            "Increase test coverage to 100%",
+            "Slider performance optimization",
+            "Addition of smoother animations and transitions",
+            "Implementation of a more robust form management system",
+            "Complete WCAG 2.1 site accessibility"
+          ]
+        }
     },
-    "card4": {
-      "title": "Building a dynamic web page with JavaScript",
-      "technos": "JavaScript · API Rest · Node.js · Swagger"
+    "card4" : {
+        "title": "Building a dynamic web page with JavaScript",
+        "technos": "JavaScript . REST API . Node.js . Swagger",
+        "altImage": "Screenshot of Sophie Bluel website",
+        "altLogo": "Sophie Bluel logo",
+        
+        "objectives": {
+          "title": "Project objectives",
+          "item": "Develop a dynamic web page for an interior architect's portfolio using JavaScript and a REST API. Make the site interactive with dynamic content updates and administration features."
+        },
+        "skills": {
+          "title": "Skills developed",
+          "items": [
+            "JavaScript DOM manipulation (creating, updating, deleting elements)",
+            "User event handling (form submission, clicks, modals)",
+            "REST API integration with fetch() and asynchronous JavaScript",
+            "Reading Swagger API documentation (OpenAPI) to understand endpoints",
+            "Authentication logic and token management",
+            "Media upload functionality via modal component",
+            "Modular and maintainable front-end architecture"
+          ]
+        },
+        "results": {
+          "title": "Results and impact",
+          "items": [
+            "Dynamic project gallery with category filtering",
+            "Administrator login page with token authentication",
+            "Media upload modal with preview and validation",
+            "Functional secure API requests (GET, POST, DELETE)",
+            "Smooth DOM updates without page reload",
+            "Responsive design faithful to Figma mockups",
+            "Integrated error handling and user feedback"
+          ]
+        },
+        "improvements": {
+          "title": "Improvement perspectives",
+          "items": [
+            "Addition of existing project editing features",
+            "Addition of unit and integration tests",
+            "Performance optimization (lazy loading, image compression)"
+          ]
+        }
     },
-    "card5": {
+    "card5" : {
       "title": "Improving a mobile site interface with CSS animations",
-      "technos": "HTML · CSS Animations · Sass"
+      "technos": "HTML . CSS Animations . Sass",
+      "altImage": "Screenshot of Ohmyfood website",
+      "altLogo": "Ohmyfood logo",
+
+      "objectives": {
+        "title": "Project objectives",
+        "item": "Improve the mobile-first interface of a startup's website by integrating provided Figma mockups and implementing CSS animations to create an engaging and interactive user experience."
+      },
+      "skills": {
+        "title": "Skills developed",
+        "items": [
+          "Mobile-First development and responsive design",
+          "UI integration from Figma mockups (mobile and desktop)",
+          "Sass mastery (variables, mixins, partials, nesting)",
+          "Modular and maintainable CSS architecture",
+          "Advanced CSS animations and transitions",
+          "Version control with Git and GitHub"
+        ]
+      },
+      "results": {
+        "title": "Results and impact",
+        "items": [
+          "Page loader animation during loading",
+          "Hover animation on CTA buttons (color and scale transition)",
+          "Heart icon fill animation on hover",
+          "Sequential appearance of menu sections (starters, mains, desserts)",
+          "Checkmark animation on dish hover",
+          "Text overflow handling with ellipsis for consistent layout",
+          "Responsive interface adapted to all devices"
+        ]
+      },
+      "improvements": {
+        "title": "Improvement perspectives",
+        "items": [
+          "Addition of JavaScript features (cart, online ordering)",
+          "Implementation of a persistent favorites system",
+          "Integration of an API for restaurant data",
+          "Accessibility testing and WCAG 2.1 compliance"
+        ]
+      }      
     },
-    "card6": {
+    "card6" : {
       "title": "Creating the homepage of a travel agency website",
-      "technos": "HTML · CSS"
+      "technos": "HTML . CSS",
+      "altImage": "Screenshot of Booki website",
+      "altLogo": "Booki logo",
+
+      "objectives": {
+        "title": "Project objectives",
+        "item": "Create the responsive homepage of a travel agency in HTML and CSS from Figma mockups (mobile, tablet, desktop). Accurately reproduce the design while ensuring optimal responsiveness across all devices."
+      },
+      "skills": {
+        "title": "Skills developed",
+        "items": [
+          "Responsive Web Design (mobile, tablet, desktop)",
+          "UI integration from high-fidelity Figma mockups",
+          "Mastery of semantic and accessible HTML structure",
+          "Front-end development environment setup",
+          "Code organization and quality with clear naming conventions"
+        ]
+      },
+      "results": {
+        "title": "Results and impact",
+        "items": [
+          "Fully responsive homepage (mobile, tablet, desktop)",
+          "Interface faithful to Figma mockups with pixel-perfect precision",
+          "Semantic and accessible HTML structure",
+          "Organized and maintainable CSS code",
+          "Flexible layout with Flexbox",
+          "Project versioned with Git and hosted on GitHub"
+        ]
+      },
+      "improvements": {
+        "title": "Improvement perspectives",
+        "items": [
+          "Addition of interactive features with JavaScript",
+          "Implementation of a booking system",
+          "Addition of dynamic filters for accommodations",
+          "Integration of an API for real-time data",
+          "Performance optimization (images, lazy loading)",
+          "Addition of CSS animations to improve UX"
+        ]
+      }
     }
   },
   "skills": {

@@ -65,23 +65,214 @@
     },
     "card2" : {
         "title": "Optimisation du référencement d'un site de photographe",
-        "technos": "SEO . Accessibilité . Lighthouse . Wave"
+        "technos": "SEO . Accessibilité . Lighthouse . Wave",
+        "altImage": "Capture du site Nina Carducci",
+        "altLogo": "Logo de Nina Carducci",
+
+        "objectives": {
+          "title": "Objectifs du projet",
+          "item": "Optimiser le SEO, les performances et l'accessibilité du site portfolio d'une photographe. Améliorer la visibilité sur les moteurs de recherche, accélérer le temps de chargement et garantir l'accessibilité selon les normes WCAG 2.1."
+        },
+        "skills": {
+          "title": "Compétences développées",
+          "items": [
+            "Optimisation SEO technique (métadonnées, données structurées Schema.org)",
+            "Amélioration des performances web (optimisation images, scripts, CSS)",
+            "Implémentation des standards d'accessibilité WCAG 2.1",
+            "HTML sémantique et qualité de code",
+            "Utilisation d'outils d'audit (Lighthouse, Wave, Color Contrast Analyser)",
+            "Rédaction de documentation technique"
+          ]
+        },
+        "results": {
+          "title": "Résultats et impact",
+          "items": [
+            "Réduction du poids des images de 93% (29,4 MB → 2,07 MB)",
+            "Amélioration significative des scores Lighthouse (Performance, SEO, Accessibilité)",
+            "Résolution de toutes les erreurs d'accessibilité majeures détectées par Wave",
+            "Implémentation complète des métadonnées sociales (Open Graph, Twitter Cards)",
+            "Amélioration notable de la vitesse de chargement et de l'expérience utilisateur"
+          ]
+        },
+        "improvements": {
+          "title": "Perspectives d'améliorations",
+          "items": [
+            "Création d'un profil Google Business pour le référencement local",
+            "Développement de backlinks locaux et inscriptions dans des annuaires",
+            "Ajout de contenus réguliers (blog photographique)",
+            "Mise en place d'un système de gestion de galerie dynamique"
+          ]
+        }
     },
     "card3" : {
         "title": "Débuggage du site d'une agence d'événementiel",
-        "technos": "DevTools . Tests unitaires . Jest . Yarn . JavaScript"
+        "technos": "DevTools . Tests unitaires . Jest . Yarn . JavaScript",
+        "altImage": "Capture du site 724 events",
+        "altLogo": "Logo de 724 events",
+
+        "objectives": {
+          "title": "Objectifs du projet",
+          "item": "Déboguer et finaliser le développement d'un site one-page pour une agence événementielle. Analyser le code existant, identifier les problèmes avec Chrome DevTools et les tests Jest, corriger tous les bugs signalés et rédiger un cahier de recette détaillant les scénarios de validation."
+        },
+        "skills": {
+          "title": "Compétences développées",
+          "items": [
+            "Débogage d'un site web avec Chrome DevTools et React Developper Tools",
+            "Rédaction d'un cahier de recette pour valider les fonctionnalités",
+            "Gestion des dépendances avec Yarn et Node.js",
+            "Réalisation et écriture de tests unitaires et fonctionnels avec Jest"
+          ]
+        },
+        "results": {
+          "title": "Résultats et impact",
+          "items": [
+            "Correction des liens de navigation avec défilement fluide",
+            "Résolution des bugs du slider (affichage des mois, ordre des événements, boucle infinie)",
+            "Correction du filtrage par catégorie avec limitation à 9 événements",
+            "Correction du formulaire de contact (validation, statuts d'envoi)",
+            "Correction de l'affichage et du comportement de l'événement en footer",
+            "Amélioration de la couverture de tests avec Jest"
+          ]
+        },
+        "improvements": {
+          "title": "Perspectives d'améliorations",
+          "items": [
+            "Augmentation de la couverture de tests à 100%",
+            "Optimisation des performances du slider",
+            "Ajout d'animations et transitions plus fluides",
+            "Implémentation d'un système de gestion de formulaires plus robuste",
+            "Accessibilité WCAG 2.1 complète du site"
+          ]
+        }
     },
     "card4" : {
         "title": "Création d'une page web dynamique avec JavaScript",
-        "technos": "JavaScript . API Rest. Node.js . Swagger"
+        "technos": "JavaScript . API Rest. Node.js . Swagger",
+        "altImage": "Capture du site Sophie Bluel",
+        "altLogo": "Logo de Sophie Bluel",
+        
+        "objectives": {
+          "title": "Objectifs du projet",
+          "item": "Développer une page web dynamique pour le portfolio d'une architecte d'intérieur en utilisant JavaScript et une API REST. Rendre le site interactif avec des mises à jour de contenu dynamiques et des fonctionnalités d'administration."
+        },
+        "skills": {
+          "title": "Compétences développées",
+          "items": [
+            "Manipulation du DOM JavaScript (création, mise à jour, suppression d'éléments)",
+            "Gestion des événements utilisateur (soumission de formulaires, clics, modales)",
+            "Intégration d'API REST avec fetch() et JavaScript asynchrone",
+            "Lecture de documentation API Swagger (OpenAPI) pour comprendre les endpoints",
+            "Logique d'authentification et gestion de tokens",
+            "Fonctionnalité d'upload de médias via composant modal",
+            "Architecture front-end modulaire et maintenable"
+          ]
+        },
+        "results": {
+          "title": "Résultats et impact",
+          "items": [
+            "Galerie de projets dynamique avec filtrage par catégorie",
+            "Page de connexion administrateur avec authentification par token",
+            "Modal d'upload de médias avec prévisualisation et validation",
+            "Requêtes API sécurisées (GET, POST, DELETE) fonctionnelles",
+            "Mises à jour du DOM fluides sans rechargement de page",
+            "Design responsive fidèle aux maquettes Figma",
+            "Gestion d'erreurs et feedbacks utilisateur intégrés"
+          ]
+        },
+        "improvements": {
+          "title": "Perspectives d'améliorations",
+          "items": [
+            "Ajout de fonctionnalités d'édition de projets existants",
+            "Ajout de tests unitaires et d'intégration",
+            "Optimisation des performances (lazy loading, compression d'images)"
+          ]
+        }
     },
     "card5" : {
       "title": "Amélioration de l'interface d'un site mobile avec des animations CSS",
-      "technos": "HTML . Animations CSS . Sass"
+      "technos": "HTML . Animations CSS . Sass",
+      "altImage": "Capture du site Ohmyfood",
+      "altLogo": "Logo de Ohmyfood",
+
+      "objectives": {
+        "title": "Objectifs du projet",
+        "item": "Améliorer l'interface mobile-first du site d'une startup en intégrant les maquettes Figma fournies et en implémentant des animations CSS pour créer une expérience utilisateur engageante et interactive."
+      },
+      "skills": {
+        "title": "Compétences développées",
+        "items": [
+          "Développement Mobile-First et responsive design",
+          "Intégration d'interface à partir de maquettes Figma (mobile et desktop)",
+          "Maîtrise de Sass (variables, mixins, partials, nesting)",
+          "Architecture CSS modulaire et maintenable",
+          "Animations et transitions CSS avancées",
+          "Gestion de version avec Git et GitHub"
+        ]
+      },
+      "results": {
+        "title": "Résultats et impact",
+        "items": [
+          "Animation de loader de page pendant le chargement",
+          "Animation de hover sur les boutons CTA (transition couleur et échelle)",
+          "Animation de remplissage d'icône cœur au survol",
+          "Apparition séquentielle des sections du menu (entrées, plats, desserts)",
+          "Animation de checkmark au survol des plats",
+          "Gestion de l'overflow de texte avec ellipsis pour un layout cohérent",
+          "Interface responsive adaptée à tous les appareils"
+        ]
+      },
+      "improvements": {
+        "title": "Perspectives d'améliorations",
+        "items": [
+          "Ajout de fonctionnalités JavaScript (panier, commande en ligne)",
+          "Implémentation d'un système de favoris persistant",
+          "Intégration d'une API pour les données de restaurants",
+          "Tests d'accessibilité et conformité WCAG 2.1"
+        ]
+      }      
     },
     "card6" : {
       "title": "Création de la page d'accueil du site d'une agence de voyage",
-      "technos": "HTML . CSS"
+      "technos": "HTML . CSS",
+      "altImage": "Capture du site Booki",
+      "altLogo": "Logo de Booki",
+
+      "objectives": {
+        "title": "Objectifs du projet",
+        "item": "Créer la page d'accueil responsive d'une agence de voyage en HTML et CSS à partir de maquettes Figma (mobile, tablette, desktop). Reproduire fidèlement le design tout en assurant une responsivité optimale sur tous les appareils."
+      },
+      "skills": {
+        "title": "Compétences développées",
+        "items": [
+          "Responsive Web Design (mobile, tablette, desktop)",
+          "Intégration d'interface à partir de maquettes Figma haute-fidélité",
+          "Maîtrise de la structure HTML sémantique et accessible",
+          "Configuration d'environnement de développement front-end",
+          "Organisation et qualité du code avec conventions de nommage claires"
+        ]
+      },
+      "results": {
+        "title": "Résultats et impact",
+        "items": [
+          "Page d'accueil entièrement responsive (mobile, tablette, desktop)",
+          "Interface fidèle aux maquettes Figma avec précision pixel-perfect",
+          "Structure HTML sémantique et accessible",
+          "Code CSS organisé et maintenable",
+          "Layout flexible avec Flexbox",
+          "Projet versionné avec Git et hébergé sur GitHub"
+        ]
+      },
+      "improvements": {
+        "title": "Perspectives d'améliorations",
+        "items": [
+          "Ajout de fonctionnalités interactives avec JavaScript",
+          "Implémentation d'un système de réservation",
+          "Ajout de filtres dynamiques pour les hébergements",
+          "Intégration d'une API pour les données en temps réel",
+          "Optimisation des performances (images, lazy loading)",
+          "Ajout d'animations CSS pour améliorer l'UX"
+        ]
+      }
     }
   },
   "skills": {
