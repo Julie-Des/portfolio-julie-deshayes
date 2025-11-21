@@ -21,6 +21,7 @@
   "projects": {
     "title": "My projects",
     "see": "See",
+    "moreInfo": "+ infos",
     "card1" : {
         "title": "Creating a real estate rental web application",
         "technos": "React . React-router . Vite . Sass . CSS Animations",
@@ -28,11 +29,11 @@
         "altLogo": "Kasa logo",
 
         "objectives": {
-          "title": "Project objectives",
+          "title": "🎯 Project objectives",
           "item": "Develop a real estate rental web application in React. Create a fluid and responsive interface from Figma mockups, implement a dynamic routing system to explore properties, and ensure an optimal user experience across all devices."
         },
         "skills": {
-          "title": "Skills developed",
+          "title": "🧠 Skills developed",
           "items": [
             "Mastery of React (reusable components, props, state) and React Router",
             "Modular and maintainable code architecture",
@@ -43,7 +44,7 @@
           ]
         },
         "results": {
-          "title": "Results and impact",
+          "title": "📈 Results and impact",
           "items": [
             "Functional application deployed on Vercel",
             "Responsive interface faithful to Figma mockups",
@@ -53,7 +54,7 @@
           ]
         },
         "improvements": {
-          "title": "Improvement perspectives",
+          "title": "🛠️ Improvement perspectives",
           "items" : [
             "Connection to a real backend API",
             "Addition of features (filters, search, favorites)",
@@ -70,11 +71,11 @@
         "altLogo": "Nina Carducci logo",
 
         "objectives": {
-          "title": "Project objectives",
+          "title": "🎯 Project objectives",
           "item": "Optimize the SEO, performance and accessibility of a photographer's portfolio website. Improve visibility on search engines, speed up loading time and ensure accessibility according to WCAG 2.1 standards."
         },
         "skills": {
-          "title": "Skills developed",
+          "title": "🧠 Skills developed",
           "items": [
             "Technical SEO optimization (metadata, Schema.org structured data)",
             "Web performance improvement (image, script, CSS optimization)",
@@ -85,7 +86,7 @@
           ]
         },
         "results": {
-          "title": "Results and impact",
+          "title": "📈 Results and impact",
           "items": [
             "93% reduction in image weight (29.4 MB → 2.07 MB)",
             "Significant improvement in Lighthouse scores (Performance, SEO, Accessibility)",
@@ -95,7 +96,7 @@
           ]
         },
         "improvements": {
-          "title": "Improvement perspectives",
+          "title": "🛠️ Improvement perspectives",
           "items": [
             "Creation of a Google Business profile for local SEO",
             "Development of local backlinks and directory listings",
@@ -111,11 +112,11 @@
         "altLogo": "724 events logo",
 
         "objectives": {
-          "title": "Project objectives",
+          "title": "🎯 Project objectives",
           "item": "Debug and finalize the development of a one-page website for an event agency. Analyze existing code, identify issues with Chrome DevTools and Jest tests, fix all reported bugs and write a test plan detailing validation scenarios."
         },
         "skills": {
-          "title": "Skills developed",
+          "title": "🧠 Skills developed",
           "items": [
             "Website debugging with Chrome DevTools and React Developer Tools",
             "Writing a test plan to validate functionalities",
@@ -124,7 +125,7 @@
           ]
         },
         "results": {
-          "title": "Results and impact",
+          "title": "📈 Results and impact",
           "items": [
             "Fixed navigation links with smooth scrolling",
             "Resolved slider bugs (month display, event order, infinite loop)",
@@ -135,7 +136,7 @@
           ]
         },
         "improvements": {
-          "title": "Improvement perspectives",
+          "title": "🛠️ Improvement perspectives",
           "items": [
             "Increase test coverage to 100%",
             "Slider performance optimization",
@@ -152,11 +153,11 @@
         "altLogo": "Sophie Bluel logo",
         
         "objectives": {
-          "title": "Project objectives",
+          "title": "🎯 Project objectives",
           "item": "Develop a dynamic web page for an interior architect's portfolio using JavaScript and a REST API. Make the site interactive with dynamic content updates and administration features."
         },
         "skills": {
-          "title": "Skills developed",
+          "title": "🧠 Skills developed",
           "items": [
             "JavaScript DOM manipulation (creating, updating, deleting elements)",
             "User event handling (form submission, clicks, modals)",
@@ -168,7 +169,7 @@
           ]
         },
         "results": {
-          "title": "Results and impact",
+          "title": "📈 Results and impact",
           "items": [
             "Dynamic project gallery with category filtering",
             "Administrator login page with token authentication",
@@ -180,7 +181,7 @@
           ]
         },
         "improvements": {
-          "title": "Improvement perspectives",
+          "title": "🛠️ Improvement perspectives",
           "items": [
             "Addition of existing project editing features",
             "Addition of unit and integration tests",
@@ -195,11 +196,11 @@
       "altLogo": "Ohmyfood logo",
 
       "objectives": {
-        "title": "Project objectives",
+        "title": "🎯 Project objectives",
         "item": "Improve the mobile-first interface of a startup's website by integrating provided Figma mockups and implementing CSS animations to create an engaging and interactive user experience."
       },
       "skills": {
-        "title": "Skills developed",
+        "title": "🧠 Skills developed",
         "items": [
           "Mobile-First development and responsive design",
           "UI integration from Figma mockups (mobile and desktop)",
@@ -210,7 +211,7 @@
         ]
       },
       "results": {
-        "title": "Results and impact",
+        "title": "📈 Results and impact",
         "items": [
           "Page loader animation during loading",
           "Hover animation on CTA buttons (color and scale transition)",
@@ -222,7 +223,7 @@
         ]
       },
       "improvements": {
-        "title": "Improvement perspectives",
+        "title": "🛠️ Improvement perspectives",
         "items": [
           "Addition of JavaScript features (cart, online ordering)",
           "Implementation of a persistent favorites system",
@@ -238,11 +239,11 @@
       "altLogo": "Booki logo",
 
       "objectives": {
-        "title": "Project objectives",
+        "title": "🎯 Project objectives",
         "item": "Create the responsive homepage of a travel agency in HTML and CSS from Figma mockups (mobile, tablet, desktop). Accurately reproduce the design while ensuring optimal responsiveness across all devices."
       },
       "skills": {
-        "title": "Skills developed",
+        "title": "🧠 Skills developed",
         "items": [
           "Responsive Web Design (mobile, tablet, desktop)",
           "UI integration from high-fidelity Figma mockups",
@@ -252,7 +253,7 @@
         ]
       },
       "results": {
-        "title": "Results and impact",
+        "title": "📈 Results and impact",
         "items": [
           "Fully responsive homepage (mobile, tablet, desktop)",
           "Interface faithful to Figma mockups with pixel-perfect precision",
@@ -263,7 +264,7 @@
         ]
       },
       "improvements": {
-        "title": "Improvement perspectives",
+        "title": "🛠️ Improvement perspectives",
         "items": [
           "Addition of interactive features with JavaScript",
           "Implementation of a booking system",

@@ -6,6 +6,11 @@ import { projectsData } from "@/data/projectsData";
 import ProjectCard from "./ProjectCard";
 import Image from "next/image";
 
+
+const PROJECT_IDS = [1, 2, 3, 4, 5, 6] as const;
+
+export type ProjectKey = `card${typeof PROJECT_IDS[number]}`;
+
 export default function Projects() {
 	const { translations, tr } = useTranslation();
 	const [activeId, setActiveId] = useState<number | null>(null);
@@ -41,7 +46,10 @@ export default function Projects() {
 						title={tr(project.titleKey)}
 						technos={tr(project.technosKey)}
 						image={project.image}
+						altImage={project.imageAltKey}
 						logo={project.logo}
+						altLogo={project.logoAltKey}
+						detailsKey={`card${project.id}` as ProjectKey}
 						github={project.github}
 						link={project.link}
 						isActive={activeId === project.id}

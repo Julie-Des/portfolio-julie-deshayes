@@ -21,6 +21,7 @@
   "projects": {
     "title": "Mes projets",
     "see": "Voir",
+    "moreInfo": "+ d'infos",
     "card1" : {
         "title": "Création d'une application web de location immobilière",
         "technos": "React . React-router . Vite . Sass . Animations CSS",
@@ -28,11 +29,11 @@
         "altLogo": "Logo de Kasa",
 
         "objectives": {
-          "title": "Ojectifs du projet",
+          "title": "🎯 Ojectifs du projet",
           "item": "Développer une application web de location immobilière en React. Créer une interface fluide et responsive à partir de maquettes Figma, implémenter un système de routing dynamique pour explorer les propriétés, et assurer une expérience utilisateur optimale sur tous les appareils."
         },
         "skills": {
-          "title": "Compétences développées",
+          "title": "🧠 Compétences développées",
           "items": [
             "Maîtrise de React (composants réutilisables, props, state) et React Router",
             "Architecture modulaire et maintenable du code",
@@ -43,7 +44,7 @@
           ]
         },
         "results": {
-          "title": "Résultats et impact",
+          "title": "📈 Résultats et impact",
           "items": [
             "Application fonctionnelle déployée sur Vercel",
             "Interface responsive fidèle aux maquettes Figma",
@@ -53,7 +54,7 @@
           ]
         },
         "improvements": {
-          "title": "Perspectives d'améliorations",
+          "title": "🛠️ Perspectives d'améliorations",
           "items" : [
             "Connexion à une vraie API backend",
             "Ajout de fonctionnalités (filtres, recherche, favoris)",
@@ -70,11 +71,11 @@
         "altLogo": "Logo de Nina Carducci",
 
         "objectives": {
-          "title": "Objectifs du projet",
+          "title": "🎯 Objectifs du projet",
           "item": "Optimiser le SEO, les performances et l'accessibilité du site portfolio d'une photographe. Améliorer la visibilité sur les moteurs de recherche, accélérer le temps de chargement et garantir l'accessibilité selon les normes WCAG 2.1."
         },
         "skills": {
-          "title": "Compétences développées",
+          "title": "🧠 Compétences développées",
           "items": [
             "Optimisation SEO technique (métadonnées, données structurées Schema.org)",
             "Amélioration des performances web (optimisation images, scripts, CSS)",
@@ -85,7 +86,7 @@
           ]
         },
         "results": {
-          "title": "Résultats et impact",
+          "title": "📈 Résultats et impact",
           "items": [
             "Réduction du poids des images de 93% (29,4 MB → 2,07 MB)",
             "Amélioration significative des scores Lighthouse (Performance, SEO, Accessibilité)",
@@ -95,7 +96,7 @@
           ]
         },
         "improvements": {
-          "title": "Perspectives d'améliorations",
+          "title": "🛠️ Perspectives d'améliorations",
           "items": [
             "Création d'un profil Google Business pour le référencement local",
             "Développement de backlinks locaux et inscriptions dans des annuaires",
@@ -111,11 +112,11 @@
         "altLogo": "Logo de 724 events",
 
         "objectives": {
-          "title": "Objectifs du projet",
+          "title": "🎯 Objectifs du projet",
           "item": "Déboguer et finaliser le développement d'un site one-page pour une agence événementielle. Analyser le code existant, identifier les problèmes avec Chrome DevTools et les tests Jest, corriger tous les bugs signalés et rédiger un cahier de recette détaillant les scénarios de validation."
         },
         "skills": {
-          "title": "Compétences développées",
+          "title": "🧠 Compétences développées",
           "items": [
             "Débogage d'un site web avec Chrome DevTools et React Developper Tools",
             "Rédaction d'un cahier de recette pour valider les fonctionnalités",
@@ -124,7 +125,7 @@
           ]
         },
         "results": {
-          "title": "Résultats et impact",
+          "title": "📈 Résultats et impact",
           "items": [
             "Correction des liens de navigation avec défilement fluide",
             "Résolution des bugs du slider (affichage des mois, ordre des événements, boucle infinie)",
@@ -135,7 +136,7 @@
           ]
         },
         "improvements": {
-          "title": "Perspectives d'améliorations",
+          "title": "🛠️ Perspectives d'améliorations",
           "items": [
             "Augmentation de la couverture de tests à 100%",
             "Optimisation des performances du slider",
@@ -152,11 +153,11 @@
         "altLogo": "Logo de Sophie Bluel",
         
         "objectives": {
-          "title": "Objectifs du projet",
+          "title": "🎯 Objectifs du projet",
           "item": "Développer une page web dynamique pour le portfolio d'une architecte d'intérieur en utilisant JavaScript et une API REST. Rendre le site interactif avec des mises à jour de contenu dynamiques et des fonctionnalités d'administration."
         },
         "skills": {
-          "title": "Compétences développées",
+          "title": "🧠 Compétences développées",
           "items": [
             "Manipulation du DOM JavaScript (création, mise à jour, suppression d'éléments)",
             "Gestion des événements utilisateur (soumission de formulaires, clics, modales)",
@@ -168,7 +169,7 @@
           ]
         },
         "results": {
-          "title": "Résultats et impact",
+          "title": "📈 Résultats et impact",
           "items": [
             "Galerie de projets dynamique avec filtrage par catégorie",
             "Page de connexion administrateur avec authentification par token",
@@ -180,7 +181,7 @@
           ]
         },
         "improvements": {
-          "title": "Perspectives d'améliorations",
+          "title": "🛠️ Perspectives d'améliorations",
           "items": [
             "Ajout de fonctionnalités d'édition de projets existants",
             "Ajout de tests unitaires et d'intégration",
@@ -195,11 +196,11 @@
       "altLogo": "Logo de Ohmyfood",
 
       "objectives": {
-        "title": "Objectifs du projet",
+        "title": "🎯 Objectifs du projet",
         "item": "Améliorer l'interface mobile-first du site d'une startup en intégrant les maquettes Figma fournies et en implémentant des animations CSS pour créer une expérience utilisateur engageante et interactive."
       },
       "skills": {
-        "title": "Compétences développées",
+        "title": "🧠 Compétences développées",
         "items": [
           "Développement Mobile-First et responsive design",
           "Intégration d'interface à partir de maquettes Figma (mobile et desktop)",
@@ -210,7 +211,7 @@
         ]
       },
       "results": {
-        "title": "Résultats et impact",
+        "title": "📈 Résultats et impact",
         "items": [
           "Animation de loader de page pendant le chargement",
           "Animation de hover sur les boutons CTA (transition couleur et échelle)",
@@ -222,7 +223,7 @@
         ]
       },
       "improvements": {
-        "title": "Perspectives d'améliorations",
+        "title": "🛠️ Perspectives d'améliorations",
         "items": [
           "Ajout de fonctionnalités JavaScript (panier, commande en ligne)",
           "Implémentation d'un système de favoris persistant",
@@ -238,11 +239,11 @@
       "altLogo": "Logo de Booki",
 
       "objectives": {
-        "title": "Objectifs du projet",
+        "title": "🎯 Objectifs du projet",
         "item": "Créer la page d'accueil responsive d'une agence de voyage en HTML et CSS à partir de maquettes Figma (mobile, tablette, desktop). Reproduire fidèlement le design tout en assurant une responsivité optimale sur tous les appareils."
       },
       "skills": {
-        "title": "Compétences développées",
+        "title": "🧠 Compétences développées",
         "items": [
           "Responsive Web Design (mobile, tablette, desktop)",
           "Intégration d'interface à partir de maquettes Figma haute-fidélité",
@@ -252,7 +253,7 @@
         ]
       },
       "results": {
-        "title": "Résultats et impact",
+        "title": "📈 Résultats et impact",
         "items": [
           "Page d'accueil entièrement responsive (mobile, tablette, desktop)",
           "Interface fidèle aux maquettes Figma avec précision pixel-perfect",
@@ -263,7 +264,7 @@
         ]
       },
       "improvements": {
-        "title": "Perspectives d'améliorations",
+        "title": "🛠️ Perspectives d'améliorations",
         "items": [
           "Ajout de fonctionnalités interactives avec JavaScript",
           "Implémentation d'un système de réservation",

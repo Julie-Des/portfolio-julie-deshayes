@@ -1,17 +1,21 @@
+type CardNumber = 1 | 2 | 3 | 4 | 5 | 6; // Ajoute ici les nouveaux IDs si tu ajoutes des projets
+type ProjectKey = `card${CardNumber}`;
+type TranslationKey<T extends string = string> = `projects.${ProjectKey}.${T}`;
+
 export interface ProjectData {
-  id: number;
-  titleKey: string;
-  technosKey: string;
+  id: CardNumber;
+  titleKey: TranslationKey<"title">;
+  technosKey: TranslationKey<"technos">;
   image: string;
-  imageAltKey: string;
-  logoAltKey: string;
+  imageAltKey: TranslationKey<"altImage">;
   logo: string;
+  logoAltKey: TranslationKey<"altLogo">;
   github: string;
   link: string;
-  objectivesKey: string;
-  skillsKey: string;
-  resultsKey: string;
-  improvementsKey: string;
+  objectivesKey: TranslationKey<"objectives">;
+  skillsKey: TranslationKey<"skills">;
+  resultsKey: TranslationKey<"results">;
+  improvementsKey: TranslationKey<"improvements">;
 }
 
 export const projectsData: ProjectData[] = [
