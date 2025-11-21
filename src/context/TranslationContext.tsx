@@ -10,7 +10,7 @@ type Translations = typeof fr;
 type TranslationContextType = {
   lang: Lang;
   translations: Translations;
-  tr: (key: string) => string;
+  tr: (key: string) => any;
   switchLang: (lang: Lang) => void;
 };
 
@@ -33,7 +33,7 @@ export function TranslationProvider({ children }: Readonly<{ children: ReactNode
 
   // function to translate via a key of the type "home.header.title""
   const tr = useCallback(
-    (key: string): string => {
+    (key: string): any => {
       const parts = key.split(".");
       let current: unknown = translations; // we start from the root object (fr or en)
 
