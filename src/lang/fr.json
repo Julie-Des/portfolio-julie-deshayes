@@ -23,7 +23,45 @@
     "see": "Voir",
     "card1" : {
         "title": "Création d'une application web de location immobilière",
-        "technos": "React . React-router . Vite . Sass . Animations CSS"
+        "technos": "React . React-router . Vite . Sass . Animations CSS",
+        "altImage": "Capture du site Kasa",
+        "altLogo": "Logo de Kasa",
+
+        "objectives": {
+          "title": "Ojectifs du projet",
+          "item": "Développer une application web de location immobilière en React. Créer une interface fluide et responsive à partir de maquettes Figma, implémenter un système de routing dynamique pour explorer les propriétés, et assurer une expérience utilisateur optimale sur tous les appareils."
+        },
+        "skills": {
+          "title": "Compétences développées",
+          "items": [
+            "Maîtrise de React (composants réutilisables, props, state) et React Router",
+            "Architecture modulaire et maintenable du code",
+            "Intégration Sass pour des styles propres et organisés",
+            "Animations CSS pour améliorer l'UX",
+            "Design responsive mobile-first",
+            "Gestion d'erreurs et routes invalides"
+          ]
+        },
+        "results": {
+          "title": "Résultats et impact",
+          "items": [
+            "Application fonctionnelle déployée sur Vercel",
+            "Interface responsive fidèle aux maquettes Figma",
+            "Galerie d'images interactive avec navigation infinie",
+            "Sections dépliables animées pour les détails",
+            "Navigation fluide sans rechargement de page"
+          ]
+        },
+        "improvements": {
+          "title": "Perspectives d'améliorations",
+          "items" : [
+            "Connexion à une vraie API backend",
+            "Ajout de fonctionnalités (filtres, recherche, favoris)",
+            "Optimisation des performances (lazy loading, code splitting)",
+            "Tests unitaires et d'intégration",
+            "Système d'authentification utilisateur"
+          ]
+        }
     },
     "card2" : {
         "title": "Optimisation du référencement d'un site de photographe",
