@@ -30,17 +30,15 @@
 
         "objectives": {
           "title": "🎯 Ojectifs du projet",
-          "item": "Développer une application web de location immobilière en React. Créer une interface fluide et responsive à partir de maquettes Figma, implémenter un système de routing dynamique pour explorer les propriétés, et assurer une expérience utilisateur optimale sur tous les appareils."
+          "item": "Développer une application web de location immobilière avec React. Créer une interface fluide et responsive à partir de maquettes Figma et implémenter un système de routing dynamique pour explorer les locations."
         },
         "skills": {
           "title": "🧠 Compétences développées",
           "items": [
             "Maîtrise de React (composants réutilisables, props, state) et React Router",
-            "Architecture modulaire et maintenable du code",
             "Intégration Sass pour des styles propres et organisés",
             "Animations CSS pour améliorer l'UX",
-            "Design responsive mobile-first",
-            "Gestion d'erreurs et routes invalides"
+            "Gestion des erreurs et routes invalides"
           ]
         },
         "results": {
@@ -72,7 +70,7 @@
 
         "objectives": {
           "title": "🎯 Objectifs du projet",
-          "item": "Optimiser le SEO, les performances et l'accessibilité du site portfolio d'une photographe. Améliorer la visibilité sur les moteurs de recherche, accélérer le temps de chargement et garantir l'accessibilité selon les normes WCAG 2.1."
+          "item": "Optimiser le SEO, les performances et l'accessibilité du site portfolio d'une photographe."
         },
         "skills": {
           "title": "🧠 Compétences développées",
@@ -113,12 +111,12 @@
 
         "objectives": {
           "title": "🎯 Objectifs du projet",
-          "item": "Déboguer et finaliser le développement d'un site one-page pour une agence événementielle. Analyser le code existant, identifier les problèmes avec Chrome DevTools et les tests Jest, corriger tous les bugs signalés et rédiger un cahier de recette détaillant les scénarios de validation."
+          "item": "Débugguer et finaliser le développement d'un site one-page pour une agence événementielle. Rédiger un cahier de recette détaillant les scénarios de validation."
         },
         "skills": {
           "title": "🧠 Compétences développées",
           "items": [
-            "Débogage d'un site web avec Chrome DevTools et React Developper Tools",
+            "Débuggage d'un site web avec Chrome DevTools, React Developper Tools et les tests Jest",
             "Rédaction d'un cahier de recette pour valider les fonctionnalités",
             "Gestion des dépendances avec Yarn et Node.js",
             "Réalisation et écriture de tests unitaires et fonctionnels avec Jest"
@@ -129,7 +127,7 @@
           "items": [
             "Correction des liens de navigation avec défilement fluide",
             "Résolution des bugs du slider (affichage des mois, ordre des événements, boucle infinie)",
-            "Correction du filtrage par catégorie avec limitation à 9 événements",
+            "Correction du filtrage par catégorie",
             "Correction du formulaire de contact (validation, statuts d'envoi)",
             "Correction de l'affichage et du comportement de l'événement en footer",
             "Amélioration de la couverture de tests avec Jest"
@@ -154,7 +152,7 @@
         
         "objectives": {
           "title": "🎯 Objectifs du projet",
-          "item": "Développer une page web dynamique pour le portfolio d'une architecte d'intérieur en utilisant JavaScript et une API REST. Rendre le site interactif avec des mises à jour de contenu dynamiques et des fonctionnalités d'administration."
+          "item": "Développer une page web dynamique pour le portfolio d'une architecte d'intérieur en utilisant JavaScript et une API REST. Rendre le site interactif avec des fonctionnalités d'administration et d'ajout dynamique de contenu."
         },
         "skills": {
           "title": "🧠 Compétences développées",
@@ -164,8 +162,7 @@
             "Intégration d'API REST avec fetch() et JavaScript asynchrone",
             "Lecture de documentation API Swagger (OpenAPI) pour comprendre les endpoints",
             "Logique d'authentification et gestion de tokens",
-            "Fonctionnalité d'upload de médias via composant modal",
-            "Architecture front-end modulaire et maintenable"
+            "Fonctionnalité d'upload de médias via composant modal"
           ]
         },
         "results": {
@@ -176,7 +173,6 @@
             "Modal d'upload de médias avec prévisualisation et validation",
             "Requêtes API sécurisées (GET, POST, DELETE) fonctionnelles",
             "Mises à jour du DOM fluides sans rechargement de page",
-            "Design responsive fidèle aux maquettes Figma",
             "Gestion d'erreurs et feedbacks utilisateur intégrés"
           ]
         },
@@ -185,7 +181,8 @@
           "items": [
             "Ajout de fonctionnalités d'édition de projets existants",
             "Ajout de tests unitaires et d'intégration",
-            "Optimisation des performances (lazy loading, compression d'images)"
+            "Optimisation des performances (lazy loading, compression d'images)",
+            "Gestion du responsive"
           ]
         }
     },
@@ -204,7 +201,7 @@
         "items": [
           "Développement Mobile-First et responsive design",
           "Intégration d'interface à partir de maquettes Figma (mobile et desktop)",
-          "Maîtrise de Sass (variables, mixins, partials, nesting)",
+          "Maîtrise de Sass (variables, mixins, nesting)",
           "Architecture CSS modulaire et maintenable",
           "Animations et transitions CSS avancées",
           "Gestion de version avec Git et GitHub"
@@ -240,7 +237,7 @@
 
       "objectives": {
         "title": "🎯 Objectifs du projet",
-        "item": "Créer la page d'accueil responsive d'une agence de voyage en HTML et CSS à partir de maquettes Figma (mobile, tablette, desktop). Reproduire fidèlement le design tout en assurant une responsivité optimale sur tous les appareils."
+        "item": "Créer la page d'accueil d'une agence de voyage en HTML et CSS à partir de maquettes Figma (mobile, tablette, desktop). Reproduire fidèlement le design tout en assurant une responsivité optimale sur tous les appareils."
       },
       "skills": {
         "title": "🧠 Compétences développées",

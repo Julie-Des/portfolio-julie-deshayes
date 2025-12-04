@@ -30,16 +30,14 @@
 
         "objectives": {
           "title": "🎯 Project objectives",
-          "item": "Develop a real estate rental web application in React. Create a fluid and responsive interface from Figma mockups, implement a dynamic routing system to explore properties, and ensure an optimal user experience across all devices."
+          "item": "Develop a real estate rental web application using React. Create a fluid and responsive interface from Figma mockups and implement a dynamic routing system to explore rentals."
         },
         "skills": {
           "title": "🧠 Skills developed",
           "items": [
             "Mastery of React (reusable components, props, state) and React Router",
-            "Modular and maintainable code architecture",
             "Sass integration for clean and organized styles",
             "CSS animations to improve UX",
-            "Mobile-first responsive design",
             "Error and invalid route handling"
           ]
         },
@@ -72,7 +70,7 @@
 
         "objectives": {
           "title": "🎯 Project objectives",
-          "item": "Optimize the SEO, performance and accessibility of a photographer's portfolio website. Improve visibility on search engines, speed up loading time and ensure accessibility according to WCAG 2.1 standards."
+          "item": "Optimize the SEO, performance and accessibility of a photographer's portfolio website."
         },
         "skills": {
           "title": "🧠 Skills developed",
@@ -113,12 +111,12 @@
 
         "objectives": {
           "title": "🎯 Project objectives",
-          "item": "Debug and finalize the development of a one-page website for an event agency. Analyze existing code, identify issues with Chrome DevTools and Jest tests, fix all reported bugs and write a test plan detailing validation scenarios."
+          "item": "Debug and finalize the development of a one-page website for an event agency. Write a test plan detailing the validation scenarios."
         },
         "skills": {
           "title": "🧠 Skills developed",
           "items": [
-            "Website debugging with Chrome DevTools and React Developer Tools",
+            "Debugging a website with Chrome DevTools, React Developer Tools and Jest tests",
             "Writing a test plan to validate functionalities",
             "Dependency management with Yarn and Node.js",
             "Performing and writing unit and functional tests with Jest"
@@ -129,7 +127,7 @@
           "items": [
             "Fixed navigation links with smooth scrolling",
             "Resolved slider bugs (month display, event order, infinite loop)",
-            "Fixed category filtering with limit of 9 events",
+            "Fixed category filtering",
             "Fixed contact form (validation, sending status)",
             "Fixed footer event display and behavior",
             "Improved test coverage with Jest"
@@ -154,7 +152,7 @@
         
         "objectives": {
           "title": "🎯 Project objectives",
-          "item": "Develop a dynamic web page for an interior architect's portfolio using JavaScript and a REST API. Make the site interactive with dynamic content updates and administration features."
+          "item": "Develop a dynamic webpage for an interior designer's portfolio using JavaScript and a REST API. Make the site interactive with administration features and dynamic content addition."
         },
         "skills": {
           "title": "🧠 Skills developed",
@@ -164,8 +162,7 @@
             "REST API integration with fetch() and asynchronous JavaScript",
             "Reading Swagger API documentation (OpenAPI) to understand endpoints",
             "Authentication logic and token management",
-            "Media upload functionality via modal component",
-            "Modular and maintainable front-end architecture"
+            "Media upload functionality via modal component"
           ]
         },
         "results": {
@@ -176,7 +173,6 @@
             "Media upload modal with preview and validation",
             "Functional secure API requests (GET, POST, DELETE)",
             "Smooth DOM updates without page reload",
-            "Responsive design faithful to Figma mockups",
             "Integrated error handling and user feedback"
           ]
         },
@@ -185,7 +181,8 @@
           "items": [
             "Addition of existing project editing features",
             "Addition of unit and integration tests",
-            "Performance optimization (lazy loading, image compression)"
+            "Performance optimization (lazy loading, image compression)",
+            "Responsive design management"
           ]
         }
     },
@@ -204,7 +201,7 @@
         "items": [
           "Mobile-First development and responsive design",
           "UI integration from Figma mockups (mobile and desktop)",
-          "Sass mastery (variables, mixins, partials, nesting)",
+          "Sass mastery (variables, mixins, nesting)",
           "Modular and maintainable CSS architecture",
           "Advanced CSS animations and transitions",
           "Version control with Git and GitHub"
@@ -240,7 +237,7 @@
 
       "objectives": {
         "title": "🎯 Project objectives",
-        "item": "Create the responsive homepage of a travel agency in HTML and CSS from Figma mockups (mobile, tablet, desktop). Accurately reproduce the design while ensuring optimal responsiveness across all devices."
+        "item": "Create the homepage of a travel agency in HTML and CSS from Figma mockups (mobile, tablet, desktop). Accurately reproduce the design while ensuring optimal responsiveness across all devices."
       },
       "skills": {
         "title": "🧠 Skills developed",
