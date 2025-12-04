@@ -8,7 +8,6 @@ import Image from "next/image";
 
 
 const PROJECT_IDS = [1, 2, 3, 4, 5, 6] as const;
-
 export type ProjectKey = `card${typeof PROJECT_IDS[number]}`;
 
 export default function Projects() {
@@ -25,7 +24,7 @@ export default function Projects() {
 	return (
 		<section
 			id="projects"
-			className="bg-white pt-12 pb-12 flex flex-col items-center px-10 sm:px-20 lg:px-30 scroll-mt-[104]"
+			className="bg-white pt-12 pb-12 flex flex-col items-center px-5 sm:px-10 scroll-mt-[104]"
 		>
 			<div className="relative">
 				<h3 className="title">{translations.projects.title}</h3>

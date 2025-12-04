@@ -79,7 +79,7 @@ export default function ProjectCard({
 						<h4 className="text-white text-xl mb-2">{title}</h4>
 						<p className="text-pink-dark mb-4">{technos}</p>
 					</div>
-					<div className="flex gap-4 items-center justify-end">
+					<div className="flex gap-2 sm:gap-4 items-center justify-end">
 						<a
 							href={github}
 							target="_blank"
