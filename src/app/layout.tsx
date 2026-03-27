@@ -33,7 +33,10 @@ export const metadata: Metadata = {
    robots: {
     index: true,
     follow: true,
-   }
+   },
+   verification: {
+    google: "D4zK8-fWy1w4XGHaw62ooBSXmFYgwVqLoZcQ2nSB93w",
+   },
 };
 
 export default function RootLayout({
